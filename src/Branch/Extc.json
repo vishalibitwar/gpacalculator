@@ -192,7 +192,12 @@
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Analog Circuits and Design",
+			"courseName": "Elective",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
