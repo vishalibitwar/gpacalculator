@@ -1,0 +1,215 @@
+[
+
+	[{
+			"courseName": "Physics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics-I",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Graphics",
+			"theoryCredits": 2,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Exploration",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Mathematics-II",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Chemistry",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Programming for Problem Solving",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Workshop (Manufacturing Practices)",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Professional Communication",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Mathematics-III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Numerical Methods",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electronic Devices and Circuits",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Electronics and Microprocessors",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Network Theory",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Mathematics-IV",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Data Structures",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Communication Engineering Principles",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Analog Circuits and Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Microcontrollers and Applications",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Human Values and Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[{
+			"courseName": "Signal and Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Communication Systems Theory",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Control Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electromagnetic Engineering",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Seminar",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Digital Signal Processing",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Linear Integrated Circuits",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Embedded Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Communication",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mini Project",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+	],
+	[{
+			"courseName": "Microwave and Satellite Communication",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Data Communication and Networking",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Industrial Organization",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Analog Circuits and Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Industrial Training Seminar",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+		"courseName": "Project",
+		"theoryCredits": 0,
+		"practicalCredits": 20
+	}]
+]

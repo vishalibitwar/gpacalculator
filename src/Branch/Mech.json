@@ -1,0 +1,222 @@
+[
+
+	[{
+			"courseName": "Physics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics-I",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Graphics",
+			"theoryCredits": 2,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Exploration",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Mathematics-II",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Chemistry",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Programming for Problem Solving",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Workshop (Manufacturing Practices)",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Professional Communication",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Mathematics -III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Strength of Materials",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Thermodynamics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mechanical Instrumentation",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Manufacturing Processes -I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Material Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Human Values and Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[{
+			"courseName": "Mathematics -IV",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Applied Thermodynamics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Fluid Mechanics and Hydraulic Machines",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Machine Drawing and CADD",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Manufacturing processes -II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Kinematics and Theory of Machines",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Machine Design - I",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Dynamics of Machines",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Heat Transfer",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics - IV",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective - II",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Machine Design -II",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Internal Combustion Engines",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Refrigeration and Air conditioning",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Tool Design",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective - III",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Automobile Engineering",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Computer Aided Manufacturing",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Operation Research and Management",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective -IV",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-V",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Internship",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Project (Industrial/In-house)",
+			"theoryCredits": 0,
+			"practicalCredits": 12
+		},
+		{
+			"courseName": "Mini Project",
+			"theoryCredits": 0,
+			"practicalCredits": 4
+		}
+	]
+
+]

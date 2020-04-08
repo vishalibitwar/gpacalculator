@@ -1,0 +1,243 @@
+[
+  [{
+      "courseName": "Physics",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Mathematics-I",
+      "theoryCredits": 4,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Basic Electrical Engineering",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Engineering Graphics",
+      "theoryCredits": 2,
+      "practicalCredits": 2
+    },
+    {
+      "courseName": "Engineering Mechanics",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Engineering Exploration",
+      "theoryCredits": 0,
+      "practicalCredits": 2
+    }
+  ],
+  [{
+      "courseName": "Mathematics-II",
+      "theoryCredits": 4,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Chemistry",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Programming for Problem Solving",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Workshop (Manufacturing Practices)",
+      "theoryCredits": 0,
+      "practicalCredits": 3
+    },
+    {
+      "courseName": "Professional Communication",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    }
+  ],
+
+  [{
+      "courseName": "Mathematics -III",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Sensors and Transducers",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Electronics Devices and Circuits",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Circuit Theory",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Electrical Machines",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    }
+  ],
+  [{
+      "courseName": "Mathematics -IV",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Linear Integrated Circuits",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Digital Electronics and Logic Design",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Signals and Systems",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Electrical and Electronics Measurements",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Human Values and Professional Ethics",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    }
+  ],
+  [{
+      "courseName": "Feedback Control Systems",
+      "theoryCredits": 4,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Industrial Instrumentation",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Digital Signal Processing",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Microprocessor and Microcontroller",
+      "theoryCredits": 4,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Industrial Data Communications",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Unit Operations and Instrumentation",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    }
+  ],
+  [{
+      "courseName": "Process Control",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Control System Components",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Distributed Control System",
+      "theoryCredits": 4,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Power Electronics",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Power Plant Instrumentation",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Elective - II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Seminar",
+      "theoryCredits": 0,
+      "practicalCredits": 1
+    }
+  ],
+  [{
+      "courseName": "Modern Control Theory",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical and Analytical Instrumentation",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Biomedical Instrumentation",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Elective-III",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Elective-IV( or Open Elective)",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Mini Project",
+      "theoryCredits": 0,
+      "practicalCredits": 4
+    }
+  ],
+  [{
+      "courseName": "Instrumentation Project Management",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Elective - V",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Elective-VI( or Open Elective)",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Seminar on Industrial Training",
+      "theoryCredits": 0,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Project (In house)",
+      "theoryCredits": 0,
+      "practicalCredits": 8
+    }
+
+  ]
+
+]

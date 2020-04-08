@@ -1,0 +1,225 @@
+[
+	[{
+			"courseName": "Mathematics -I",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Chemistry",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Programming for Problem Solving",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Workshop (Manufacturing Practices)",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Professional Communication",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Physics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics-II",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Graphics",
+			"theoryCredits": 2,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Exploration",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Fabric Forming Technology-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Textile Testing - I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Textile Wet Processing - I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Natural Fibres and Fibre Forming Polymers",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Fundamentals and Transducers",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Human Values and Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[{
+			"courseName": "Mathematics-III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Spun Yarn Technology - I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Fabric Forming Technology - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Textile Tesing - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Textile Wet Processing - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Winter/ Summer Internship",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Yarn Manufacture-III",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Weaving Technology-III",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "C++ & Computer Graphics",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Man Made Fibres",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics-IV",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		}
+	],
+	[{
+			"courseName": "Yarn Manufacture-IV",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Weaving Technology-IV",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Textile Wet Processing - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-II",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective- III",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		}
+	],
+	[{
+			"courseName": "Technical Textiles-I",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Production Management",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Knitting & Nonwovens",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mini Project(TU == Theory )",
+			"theoryCredits": 2,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Elective - IV",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		}
+	],
+	[{
+			"courseName": "Project - A (TU == Theory)",
+			"theoryCredits": 2,
+			"practicalCredits": 6
+		},
+		{
+			"courseName": "Seminar (TU == Theory) ",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "In-Plant Training",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Elective - V (1) (PCW) ",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective - V (2)",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		}
+	]
+]

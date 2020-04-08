@@ -1,0 +1,257 @@
+[
+	[{
+			"courseName": "Mathematics -I",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Chemistry",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Programming for Problem Solving",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Workshop (Manufacturing Practices)",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Professional Communication",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Physics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics-II",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Graphics",
+			"theoryCredits": 2,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Exploration",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Mathematics -III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Laboratory - I",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Data Structures",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Object Oriented Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Discrete Mathematics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Systems Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Mathematics -IV",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Organization and Architecture",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Microprocessors & Interfacing",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Java Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Computer Laboratory - II",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective - I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Soft Skill Development",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Human Values and Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{
+			"courseName": "Theory Of Computation",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Software Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Operating System",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Database Management System",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics - IV",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Laboratory",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Seminar - I ",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Data Mining & Data Warehousing",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Design & Analysis of Algorithms",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Computer Networks",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Software Testing",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Compiler Construction",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Computer Laboratory-IV",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Seminar - II ",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Cryptography & Network Security",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mobile & Wireless Communication",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "E-Commerce",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Introduction to Data Science",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Laboratory-V",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Project- I",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+	],
+	[{
+			"courseName": "Elective - IV",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective - V",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Project - II",
+			"theoryCredits": 0,
+			"practicalCredits": 8
+		}
+	]
+
+]

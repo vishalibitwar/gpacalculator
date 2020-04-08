@@ -1,0 +1,237 @@
+[
+	[{
+			"courseName": "Mathematics -I",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Chemistry",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Programming for Problem Solving",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Workshop (Manufacturing Practices)",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Professional Communication",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Physics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics-II",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Graphics",
+			"theoryCredits": 2,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Exploration",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Mathematics -III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Analog Electronic Circuits",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electrical Machnies - I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Object Oriented Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Circuit Theory",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electromagnetic Fields",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Application in Electrical Engineering",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Mathematics -IV",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electrical Machines - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Electronics and Logic Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electrical and Electronics Measurements",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Signals and Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Human Values and Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{
+			"courseName": "Power System Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Feedback Control System",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Microprocessor and Microcontroller",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Signal Processing",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective - II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mini Project and Seminar-I",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Power System Analysis and Stability",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electromagnetic Fields",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Control System Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Power Electronics",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective - III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mini Project and Seminar-I",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		}
+	],
+	[{
+			"courseName": "Industrial Drives and Control",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Switchgear and Protection",
+			"theoryCredits": 4,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electrical Machine Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Industrial Economics and Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-IV",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[{
+			"courseName": "Elective - V",
+			"theoryCredits": 4,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective - VI",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Seminar on Industrial Training",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Project (In House)",
+			"theoryCredits": 0,
+			"practicalCredits": 8
+		}
+	]
+
+]
