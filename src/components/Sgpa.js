@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Emoji from './Emoji';
 import It from '../Branch/it.json';
 import Cse from '../Branch/Cse.json';
 import Instru from '../Branch/Instru.json';
@@ -147,9 +148,9 @@ const Sgpa = () => {
         (
           <div className="d-flex my-5 justify-content-center align-items-center">
             <div>
-              <p className="gradeClr">Sorry ! <span>😥</span> </p>
+              <p className="gradeClr">Sorry ! <Emoji  symbol="😥"/> </p>
               <h3 className="text-muted">Data Not Available</h3>
-              <p className="text-muted text-center lead">If you want this updated as early as I can then Send me the Syllabus Structure   <strong className="font-weight-bold"> <span>📧 </span>2017bit019@sggs.ac.in</strong></p>
+              <p className="text-muted text-center lead">If you want this updated as early as I can then Send me the Syllabus Structure  <strong className="font-weight-bold"><Emoji symbol="📧" label="mail" />2017bit019@sggs.ac.in</strong></p>
             </div>
           </div>
         )
