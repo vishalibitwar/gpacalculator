@@ -114,9 +114,9 @@ const Sgpa = () => {
 
   return (
     <div>
-      <div className=" mx-1 d-flex flex-row justify-content-around">
+      <div className="d-flex flex-row justify-content-around">
         <div>
-          <span className="lbl">Branch :</span>
+          <span className="lbl sgpalbl">Branch :</span>
           <select name="Branch" className="semSelect mx-2" onChange={changeBranch} >
             <option value="It" disabled>Branch</option>
             <option value="It" selected>IT</option>
@@ -132,7 +132,7 @@ const Sgpa = () => {
           </select>
         </div>
         <div>
-          <span className="lbl d-sm-inline-block d-none">Semester :</span>
+          <span className="lbl sgpalbl d-sm-inline-block d-none">Semester :</span>
           <select name="semester" className="semSelect mx-2" onChange={handleChange} >
             {Array.apply(0, Array(8)).map(function (x, i) {
               return <option key={i} value={i} >Semester {i + 1}</option>;
@@ -159,7 +159,7 @@ const Sgpa = () => {
       <form id="form" name="form">
         {
           branch[semValue] && branch[parseInt(semValue)].map((curr, index) => (
-            <div key={index} className="row  justify-content-center text-left m-2">
+            <div key={index} className="row  justify-content-center text-left mx-sm-2 mx-1 my-2">
               <div className="col-sm-6 courselbl mb-2 mb-sm-0">
                 {curr.courseName}
               </div>
