@@ -18,7 +18,7 @@ const Modal = () => {
             <h4 className="lead">Developed by vishal ibitwar</h4>
           </div>
 
-          <p className="text-center text-muted text"> <span className="primary-text">Hola amigos</span> , If you found any issues related with Credits and Subjects you can mail me <span className="font-weight-bold"> <Emoji symbol="📧" label="mail" /> 2017bit019@sggs.ac.in</span></p>
+          <p className="text-center text-muted text"> <span className="primary-text">Hola amigos</span> , If you found any issues regarding Credits and Subjects you can mail me <span className="font-weight-bold"> <Emoji symbol="📧" label="mail" /> 2017bit019@sggs.ac.in</span></p>
           <div>
             Curriculum is updated accordingly
            <a href="https://sggs.ac.in/curriculum-and-syllabus/"> Sggs curriculum</a>

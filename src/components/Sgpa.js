@@ -59,6 +59,8 @@ const Sgpa = () => {
     else if (e.target.value === 'Elec')
       setBranch(Elec);
 
+      setSgpa(false);
+      setMessage(false);
     setSelectedValues({});
     document.form.reset();
   }
