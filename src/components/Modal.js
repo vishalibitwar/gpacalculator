@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from 'react';
+import React, { useState } from 'react';
 import Emoji from './Emoji';
 import logo from '../img/icon.png';
 import info from '../img/Info.svg';
@@ -6,10 +6,10 @@ import info from '../img/Info.svg';
 const Modal = () => {
   const [show, showModal] = useState(false);
   return (
-    <Fragment>
+    <div className="clearfix m-0">
       <button className="openModalBtn" onClick={() => showModal(true)}><img src={info} style={{ width: '30px', height: '30px' }} alt="i" ></img>  </button>
       <div style={{ display: show ? 'block' : 'none' }} className="modal">
-        <div className="modal-content bounceIn">
+        <div className="modal-content bounceIn clearfix">
           <span onClick={() => showModal(false)} className="close">&times;</span>
 
           <div className=" d-flex flex-column justify-content-center align-items-center text-center">
@@ -27,7 +27,7 @@ const Modal = () => {
 
         </div>
       </div>
-    </Fragment>
+    </div>
   )
 }
 
