@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gpacalculator/static/css/main.cfdc2384.chunk.css",
-    "main.js": "/gpacalculator/static/js/main.309b633b.chunk.js",
-    "main.js.map": "/gpacalculator/static/js/main.309b633b.chunk.js.map",
+    "main.css": "/gpacalculator/static/css/main.9e2e74b2.chunk.css",
+    "main.js": "/gpacalculator/static/js/main.abfb47a6.chunk.js",
+    "main.js.map": "/gpacalculator/static/js/main.abfb47a6.chunk.js.map",
     "runtime-main.js": "/gpacalculator/static/js/runtime-main.30a756cb.js",
     "runtime-main.js.map": "/gpacalculator/static/js/runtime-main.30a756cb.js.map",
     "static/js/2.382c7090.chunk.js": "/gpacalculator/static/js/2.382c7090.chunk.js",
     "static/js/2.382c7090.chunk.js.map": "/gpacalculator/static/js/2.382c7090.chunk.js.map",
     "index.html": "/gpacalculator/index.html",
-    "precache-manifest.3c2e0c5d9c958ac64f4e88ac8f3dd2d7.js": "/gpacalculator/precache-manifest.3c2e0c5d9c958ac64f4e88ac8f3dd2d7.js",
+    "precache-manifest.2bbaa10aa6abfa1b67ca79ec94d9267c.js": "/gpacalculator/precache-manifest.2bbaa10aa6abfa1b67ca79ec94d9267c.js",
     "service-worker.js": "/gpacalculator/service-worker.js",
-    "static/css/main.cfdc2384.chunk.css.map": "/gpacalculator/static/css/main.cfdc2384.chunk.css.map",
+    "static/css/main.9e2e74b2.chunk.css.map": "/gpacalculator/static/css/main.9e2e74b2.chunk.css.map",
     "static/js/2.382c7090.chunk.js.LICENSE.txt": "/gpacalculator/static/js/2.382c7090.chunk.js.LICENSE.txt",
     "static/media/Info.svg": "/gpacalculator/static/media/Info.9da37273.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.30a756cb.js",
     "static/js/2.382c7090.chunk.js",
-    "static/css/main.cfdc2384.chunk.css",
-    "static/js/main.309b633b.chunk.js"
+    "static/css/main.9e2e74b2.chunk.css",
+    "static/js/main.abfb47a6.chunk.js"
   ]
 }
