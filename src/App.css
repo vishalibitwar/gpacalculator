@@ -255,8 +255,14 @@ footer a {
   .sgpalbl {
     display: none;
   }
+  .courselbl{
+    font-size: 1.24rem;
+  }
+   .text{
+     font-size: 1rem;
+   }
 
-  .sgpaBtn,
+   .sgpaBtn,
   .cgpaBtn {
     font-size: 1.01rem;
   }
