@@ -116,7 +116,7 @@
   ],
   [{
       "courseName": "Feedback Control Systems",
-      "theoryCredits": 4,
+      "theoryCredits": 3,
       "practicalCredits": 1
     },
     {
@@ -142,7 +142,7 @@
     {
       "courseName": "Unit Operations and Instrumentation",
       "theoryCredits": 3,
-      "practicalCredits": 0
+      "practicalCredits": 1
     }
   ],
   [{
@@ -157,7 +157,7 @@
     },
     {
       "courseName": "Distributed Control System",
-      "theoryCredits": 4,
+      "theoryCredits": 3,
       "practicalCredits": 1
     },
     {
@@ -166,12 +166,7 @@
       "practicalCredits": 1
     },
     {
-      "courseName": "Power Plant Instrumentation",
-      "theoryCredits": 3,
-      "practicalCredits": 0
-    },
-    {
-      "courseName": "Elective - II",
+      "courseName": "Elective-I",
       "theoryCredits": 3,
       "practicalCredits": 0
     },

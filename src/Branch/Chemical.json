@@ -124,58 +124,63 @@
     }
   ],
   [{
-      "courseName": "Chemical Engineering Thermodynamics",
-      "theoryCredits": 4,
-      "practicalCredits": 0
-    },
-    {
-      "courseName": "Heat Transfer-I",
-      "theoryCredits": 4,
-      "practicalCredits": 1
-    },
-    {
-      "courseName": "Mass Transfer-I",
-      "theoryCredits": 4,
-      "practicalCredits": 1
-    },
-    {
-      "courseName": "Process Equipment Design",
-      "theoryCredits": 4,
-      "practicalCredits": 0
-    },
-    {
-      "courseName": "Chemical Process Industries",
-      "theoryCredits": 4,
-      "practicalCredits": 0
-    }
-  ],
-  [{
-      "courseName": "Mass Transfer - II",
-      "theoryCredits": 4,
-      "practicalCredits": 1
-    },
-    {
-      "courseName": "Chemical Reaction Engg - I",
-      "theoryCredits": 4,
-      "practicalCredits": 1
-    },
-    {
-      "courseName": "Process Control & Instrumentation",
-      "theoryCredits": 4,
-      "practicalCredits": 1
-    },
-    {
-      "courseName": "Process Modelling & Simulation",
-      "theoryCredits": 4,
-      "practicalCredits": 1
-    },
-    {
-      "courseName": "Elective-I",
+      "courseName": "Mass Transfer-II",
       "theoryCredits": 3,
       "practicalCredits": 1
     },
     {
-      "courseName": "Mechanical Operations",
+      "courseName": "Chemical Reaction Engineering-I",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Process Equipment Design & Drawing",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Numerical Methods in Chemical Engineering",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Core Elective-I",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Open Elective-I",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    }
+  ],
+  [{
+      "courseName": "Process Dynamics and Control",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Reaction Engg-II",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Plant Design & Economics Management",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Chemical Process Industries",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Core Elective-II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Open Elective-II",
       "theoryCredits": 3,
       "practicalCredits": 0
     }

@@ -119,53 +119,58 @@
 		}
 	],
 	[{
-			"courseName": "Yarn Manufacture-III",
+			"courseName": "Spun Yarn Technology-II",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Weaving Technology-III",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "C++ & Computer Graphics",
-			"theoryCredits": 4,
+			"courseName": "Fabric Forming Technology-III",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Man Made Fibres",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Mathematics-IV",
-			"theoryCredits": 4,
-			"practicalCredits": 0
-		}
-	],
-	[{
-			"courseName": "Yarn Manufacture-IV",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Weaving Technology-IV",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Textile Wet Processing - II",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Elective-II",
+			"courseName": "C++ & Computer Graphics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mathematics-IV",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[{
+			"courseName": "Spun Yarn Technology-III",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Post Spinning & Texturing",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Costing and Financial Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Winter/Summer Internship",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective- I",
 			"theoryCredits": 4,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Elective- III",
+			"courseName": "Elective- II",
 			"theoryCredits": 4,
 			"practicalCredits": 0
 		}

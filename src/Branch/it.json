@@ -128,8 +128,7 @@
 			"practicalCredits": 0
 		}
 	],
-	[
-		{
+	[{
 			"courseName": "Theory Of Computation",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -146,17 +145,12 @@
 		},
 		{
 			"courseName": "Database Management System",
-			"theoryCredits": 4,
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Mathematics - IV",
-			"theoryCredits": 4,
-			"practicalCredits": 0
-		},
-		{
-			"courseName": "Computer Laboratory",
-			"theoryCredits": 0,
+			"courseName": "Python Programming",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
@@ -166,13 +160,13 @@
 		}
 	],
 	[{
-			"courseName": "Data Mining & Data Warehousing",
-			"theoryCredits": 4,
-			"practicalCredits": 0
+			"courseName": "Machine Learning",
+			"theoryCredits": 3,
+			"practicalCredits": 1
 		},
 		{
 			"courseName": "Design & Analysis of Algorithms",
-			"theoryCredits": 4,
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
@@ -181,22 +175,17 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Software Testing",
+			"courseName": "Elective-II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Compiler Design",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Compiler Construction",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Computer Laboratory-IV",
-			"theoryCredits": 0,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Seminar - II ",
+			"courseName": "Computer Laboratory-III",
 			"theoryCredits": 0,
 			"practicalCredits": 1
 		}

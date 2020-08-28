@@ -78,12 +78,7 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Manufacturing Processes -I",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Material Engineering",
+			"courseName": "Materials Engineering",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
@@ -94,7 +89,7 @@
 		}
 	],
 	[{
-			"courseName": "Mathematics -IV",
+			"courseName": "Mathematics-IV",
 			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
@@ -114,7 +109,7 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Manufacturing processes -II",
+			"courseName": "Manufacturing processes-I",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
@@ -125,54 +120,54 @@
 		}
 	],
 	[{
-			"courseName": "Machine Design - I",
-			"theoryCredits": 4,
+			"courseName": "Heat Transfer",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Dynamics of Machines",
-			"theoryCredits": 4,
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Heat Transfer",
-			"theoryCredits": 4,
+			"courseName": "Design of Machine Elements",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Mathematics - IV",
-			"theoryCredits": 4,
+			"courseName": "Manufacturing Processes-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-I",
+			"theoryCredits": 3,
 			"practicalCredits": 0
-		},
-		{
-			"courseName": "Elective - II",
-			"theoryCredits": 4,
-			"practicalCredits": 1
 		}
 	],
 	[{
-			"courseName": "Machine Design -II",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Internal Combustion Engines",
-			"theoryCredits": 4,
+			"courseName": "Machine Design",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Refrigeration and Air conditioning",
-			"theoryCredits": 4,
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Tool Design",
-			"theoryCredits": 4,
+			"courseName": "Elective-II",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Elective - III",
-			"theoryCredits": 4,
+			"courseName": "Elective-III",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Automation in Manufacturing",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		}
 	],

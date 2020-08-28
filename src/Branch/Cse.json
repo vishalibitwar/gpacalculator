@@ -119,45 +119,45 @@
 		}
 	],
 	[{
-			"courseName": "Theory of Computation",
-			"theoryCredits": 4,
+			"courseName": "Software Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Database Management Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Formal Language & Automata Theory",
+			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Design and Analysis of Algoritms",
+			"courseName": "Operating Systems",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Database Systems",
+			"courseName": "Elective-I",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Operating System Concepts",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Elective - I",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Computer Lab - III",
+			"courseName": "Technical Seminar",
 			"theoryCredits": 0,
 			"practicalCredits": 1
 		}
 	],
 	[{
-			"courseName": "Compiler Design and Optimization",
+			"courseName": "Compiler Design",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Software Engineering",
-			"theoryCredits": 4,
-			"practicalCredits": 0
+			"courseName": "Data Communication & Networking",
+			"theoryCredits": 3,
+			"practicalCredits": 1
 		},
 		{
 			"courseName": "Unix System Programming",
@@ -165,23 +165,13 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Data Communication and Networking",
-			"theoryCredits": 4,
-			"practicalCredits": 0
-		},
-		{
-			"courseName": "Technical Seminar",
-			"theoryCredits": 0,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Elective - II",
+			"courseName": "Advanced Algorithms",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Computer Lab - IV",
-			"theoryCredits": 0,
+			"courseName": "Elective-II",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		}
 	],
@@ -222,10 +212,9 @@
 		}
 	],
 	[{
-			"courseName": "Project",
-			"theoryCredits": 0,
-			"practicalCredits": 16
-		}
-	]
+		"courseName": "Project",
+		"theoryCredits": 0,
+		"practicalCredits": 16
+	}]
 
 ]

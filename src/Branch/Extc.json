@@ -115,14 +115,9 @@
 		}
 	],
 	[{
-			"courseName": "Signal and Systems",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Communication Systems Theory",
+			"courseName": "Electromagnetic Engineering",
 			"theoryCredits": 4,
-			"practicalCredits": 1
+			"practicalCredits": 0
 		},
 		{
 			"courseName": "Control Systems",
@@ -130,13 +125,23 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Electromagnetic Engineering",
-			"theoryCredits": 4,
+			"courseName": "Communication Systems Theory",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Signals and Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Program Elective-I",
+			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Elective-I",
-			"theoryCredits": 3,
+			"courseName": "Industrial Management for Engineers",
+			"theoryCredits": 2,
 			"practicalCredits": 0
 		},
 		{
@@ -146,14 +151,18 @@
 		}
 	],
 	[{
-			"courseName": "Digital Signal Processing",
+			"courseName": "Linear Integrated Circuits",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Linear Integrated Circuits",
+			"courseName": "Digital Communication",
 			"theoryCredits": 3,
 			"practicalCredits": 1
+		}, {
+			"courseName": "Digital Signal Processing",
+			"theoryCredits": 3,
+			"practicalCredits": 0
 		},
 		{
 			"courseName": "Embedded Systems",
@@ -161,19 +170,14 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Digital Communication",
-			"theoryCredits": 3,
-			"practicalCredits": 0
-		},
-		{
-			"courseName": "Elective - II",
+			"courseName": "Program Elective-II",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Mini Project",
 			"theoryCredits": 0,
-			"practicalCredits": 3
+			"practicalCredits": 2
 		}
 	],
 	[{

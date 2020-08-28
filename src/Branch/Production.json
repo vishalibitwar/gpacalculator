@@ -126,7 +126,7 @@
 	[{
 			"courseName": "Mechanical Working of metals",
 			"theoryCredits": 3,
-			"practicalCredits": 1
+			"practicalCredits": 0
 		},
 		{
 			"courseName": "Machine Design",
@@ -134,7 +134,7 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Production Planting & Control",
+			"courseName": "Production Planning & Control",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
@@ -144,14 +144,14 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Computational Lab",
-			"theoryCredits": 0,
+			"courseName": "Operational Research",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Elective - I",
-			"theoryCredits": 4,
-			"practicalCredits": 0
+			"courseName": "Computational Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
 		},
 		{
 			"courseName": "Manufacturing Lab-II",
@@ -160,33 +160,28 @@
 		}
 	],
 	[{
-			"courseName": "Modern Mfg. Technology ",
+			"courseName": "Fluid Mechanics & Hydraulics Machines",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Heat and Mass Transfer",
+			"courseName": "Heat Transfer",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Fluid Mechanics & Hyd.",
+			"courseName": "Quality & Reliability",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-I",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Elective-II",
 			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Elective-III",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Seminar-I",
-			"theoryCredits": 0,
 			"practicalCredits": 1
 		}
 	],

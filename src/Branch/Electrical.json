@@ -123,15 +123,14 @@
 			"practicalCredits": 1
 		}
 	],
-	[
-		{
+	[{
 			"courseName": "Power System Engineering",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Feedback Control System",
-			"theoryCredits": 4,
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
@@ -145,7 +144,7 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Elective - II",
+			"courseName": "Elective-I",
 			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
@@ -161,27 +160,27 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Electromagnetic Fields",
-			"theoryCredits": 4,
-			"practicalCredits": 0
-		},
-		{
 			"courseName": "Control System Design",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Power Electronics",
-			"theoryCredits": 4,
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Elective - III",
+			"courseName": "Power Plant Engineering",
 			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Mini Project and Seminar-I",
+			"courseName": "Elective-II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mini Project and Seminar-II",
 			"theoryCredits": 0,
 			"practicalCredits": 2
 		}

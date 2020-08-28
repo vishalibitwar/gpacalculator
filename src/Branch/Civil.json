@@ -120,60 +120,60 @@
 		}
 	],
 	[{
-			"courseName": "Geotechnical Engineering- I",
+			"courseName": "Design Of Steel Structures",
 			"theoryCredits": 4,
-			"practicalCredits": 1
+			"practicalCredits": 0
 		},
 		{
-			"courseName": "Design of Structures-I(Steel)",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Engineering Geology",
+			"courseName": "Environmental Engineering",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Water Resources Engineering -I",
-			"theoryCredits": 4,
+			"courseName": "Engineering Hydrology",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
 			"courseName": "Transportation Engineering-I",
 			"theoryCredits": 4,
 			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
 		}
 	],
 	[{
-			"courseName": "Design of Structures-II (RCC)",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
-		{
 			"courseName": "Theory of Structures-II",
 			"theoryCredits": 4,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Water Resources Engineering - II",
-			"theoryCredits": 4,
+			"courseName": "Geotechnical Engineering",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Transportation Engineering-II",
-			"theoryCredits": 4,
+			"courseName": "Reinforced Cement Concrete Structures",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Water Resources Engineering",
+			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Environmental Engineering",
-			"theoryCredits": 4,
-			"practicalCredits": 1
+			"courseName": "Elective-II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
 		},
 		{
-			"courseName": "Field Training",
-			"theoryCredits": 0,
-			"practicalCredits": 1
+			"courseName": "Elective-III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
 		}
 	],
 	[{
