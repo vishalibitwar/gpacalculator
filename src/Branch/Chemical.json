@@ -1,5 +1,6 @@
 [
-  [{
+  [
+    {
       "courseName": "Mathematics -I",
       "theoryCredits": 4,
       "practicalCredits": 0
@@ -25,7 +26,8 @@
       "practicalCredits": 1
     }
   ],
-  [{
+  [
+    {
       "courseName": "Physics",
       "theoryCredits": 3,
       "practicalCredits": 1
@@ -56,7 +58,8 @@
       "practicalCredits": 2
     }
   ],
-  [{
+  [
+    {
       "courseName": "Mathematics-III",
       "theoryCredits": 3,
       "practicalCredits": 0
@@ -92,7 +95,8 @@
       "practicalCredits": 0
     }
   ],
-  [{
+  [
+    {
       "courseName": "Mathematics - IV",
       "theoryCredits": 3,
       "practicalCredits": 0
@@ -123,7 +127,8 @@
       "practicalCredits": 1
     }
   ],
-  [{
+  [
+    {
       "courseName": "Mass Transfer-II",
       "theoryCredits": 3,
       "practicalCredits": 1
@@ -154,7 +159,8 @@
       "practicalCredits": 0
     }
   ],
-  [{
+  [
+    {
       "courseName": "Process Dynamics and Control",
       "theoryCredits": 3,
       "practicalCredits": 1
@@ -185,28 +191,29 @@
       "practicalCredits": 0
     }
   ],
-  [{
-      "courseName": "Process Modeling & Simulation",
-      "theoryCredits": 4,
-      "practicalCredits": 1
-    },
+  [
     {
-      "courseName": "Transport Phenomena",
-      "theoryCredits": 4,
-      "practicalCredits": 0
-    },
-    {
-      "courseName": "Industrial Organization",
+      "courseName": "Process Equipment Design & Drawing-II",
       "theoryCredits": 3,
       "practicalCredits": 0
     },
     {
-      "courseName": "Optimization Techniques",
-      "theoryCredits": 4,
+      "courseName": "Process Modeling & Simulation",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Transport Phenomena",
+      "theoryCredits": 3,
       "practicalCredits": 0
     },
     {
-      "courseName": "Elective-III/ (open Elective)",
+      "courseName": "Industrial Organization & Management",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Elective-III",
       "theoryCredits": 3,
       "practicalCredits": 0
     },
@@ -221,19 +228,15 @@
       "practicalCredits": 4
     }
   ],
-  [{
-      "courseName": "Elective-IV(Open Elective)",
+  [
+    {
+      "courseName": "Elective-IV",
       "theoryCredits": 3,
       "practicalCredits": 0
     },
     {
-      "courseName": "Elective-V (Open Elective)",
+      "courseName": "Elective-V",
       "theoryCredits": 3,
-      "practicalCredits": 0
-    },
-    {
-      "courseName": "Elective-VI (Open Elective)",
-      "theoryCredits": 4,
       "practicalCredits": 0
     },
     {

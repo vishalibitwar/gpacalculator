@@ -1,5 +1,6 @@
 [
-  [{
+  [
+    {
       "courseName": "Physics",
       "theoryCredits": 3,
       "practicalCredits": 1
@@ -30,7 +31,8 @@
       "practicalCredits": 2
     }
   ],
-  [{
+  [
+    {
       "courseName": "Mathematics-II",
       "theoryCredits": 4,
       "practicalCredits": 0
@@ -56,8 +58,8 @@
       "practicalCredits": 1
     }
   ],
-
-  [{
+  [
+    {
       "courseName": "Mathematics -III",
       "theoryCredits": 3,
       "practicalCredits": 0
@@ -83,7 +85,8 @@
       "practicalCredits": 1
     }
   ],
-  [{
+  [
+    {
       "courseName": "Mathematics -IV",
       "theoryCredits": 3,
       "practicalCredits": 0
@@ -114,7 +117,8 @@
       "practicalCredits": 0
     }
   ],
-  [{
+  [
+    {
       "courseName": "Feedback Control Systems",
       "theoryCredits": 3,
       "practicalCredits": 1
@@ -145,7 +149,8 @@
       "practicalCredits": 1
     }
   ],
-  [{
+  [
+    {
       "courseName": "Process Control",
       "theoryCredits": 3,
       "practicalCredits": 1
@@ -176,7 +181,8 @@
       "practicalCredits": 1
     }
   ],
-  [{
+  [
+    {
       "courseName": "Modern Control Theory",
       "theoryCredits": 3,
       "practicalCredits": 1
@@ -197,28 +203,7 @@
       "practicalCredits": 0
     },
     {
-      "courseName": "Elective-IV( or Open Elective)",
-      "theoryCredits": 3,
-      "practicalCredits": 0
-    },
-    {
-      "courseName": "Mini Project",
-      "theoryCredits": 0,
-      "practicalCredits": 4
-    }
-  ],
-  [{
-      "courseName": "Instrumentation Project Management",
-      "theoryCredits": 3,
-      "practicalCredits": 1
-    },
-    {
-      "courseName": "Elective - V",
-      "theoryCredits": 3,
-      "practicalCredits": 0
-    },
-    {
-      "courseName": "Elective-VI( or Open Elective)",
+      "courseName": "Elective-IV",
       "theoryCredits": 3,
       "practicalCredits": 0
     },
@@ -228,11 +213,31 @@
       "practicalCredits": 1
     },
     {
+      "courseName": "Mini Project",
+      "theoryCredits": 0,
+      "practicalCredits": 5
+    }
+  ],
+  [
+    {
+      "courseName": "Instrumentation Project Management",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Elective-V",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Elective-VI",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
       "courseName": "Project (In house)",
       "theoryCredits": 0,
-      "practicalCredits": 8
+      "practicalCredits": 7
     }
-
   ]
-
 ]

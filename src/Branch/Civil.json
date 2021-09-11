@@ -1,6 +1,6 @@
 [
-
-	[{
+	[
+		{
 			"courseName": "Physics",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -31,7 +31,8 @@
 			"practicalCredits": 2
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics-II",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -57,7 +58,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics -III",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -88,7 +90,8 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics -IV",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -119,7 +122,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Design Of Steel Structures",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -145,7 +149,8 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Theory of Structures-II",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -176,8 +181,14 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
-			"courseName": "Design of Structures - III",
+	[
+		{
+			"courseName": "Advanced Concrete Structures",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Economics, Estimation and Costing ",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
@@ -187,17 +198,17 @@
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Professional Practice",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Elective - I",
+			"courseName": "Elective-IV",
 			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Elective-II",
+			"courseName": "Elective-V",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-VI",
 			"theoryCredits": 3,
 			"practicalCredits": 0
 		},
@@ -207,10 +218,16 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
-		"courseName": "Project (Industry/In-house)",
-		"theoryCredits": 0,
-		"practicalCredits": 16
-	}]
-
+	[
+		{
+			"courseName": "Project (Industry/In-house)",
+			"theoryCredits": 0,
+			"practicalCredits": 15
+		},
+		{
+			"courseName": "Professional Practice, Law & Ethics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	]
 ]

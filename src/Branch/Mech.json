@@ -1,6 +1,6 @@
 [
-
-	[{
+	[
+		{
 			"courseName": "Physics",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -31,7 +31,8 @@
 			"practicalCredits": 2
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics-II",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -57,7 +58,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics -III",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -88,7 +90,8 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics-IV",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -119,7 +122,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Heat Transfer",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -145,7 +149,8 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Machine Design",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -171,47 +176,48 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
-			"courseName": "Automobile Engineering",
-			"theoryCredits": 4,
+	[
+		{
+			"courseName": "Tool Design",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Computer Aided Manufacturing",
-			"theoryCredits": 4,
+			"courseName": "Operations Research",
+			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Operation Research and Management",
-			"theoryCredits": 4,
+			"courseName": "Elective-IV",
+			"theoryCredits": 3,
 			"practicalCredits": 1
-		},
-		{
-			"courseName": "Elective -IV",
-			"theoryCredits": 4,
-			"practicalCredits": 0
 		},
 		{
 			"courseName": "Elective-V",
-			"theoryCredits": 4,
-			"practicalCredits": 0
+			"theoryCredits": 3,
+			"practicalCredits": 1
 		},
+		{
+			"courseName": "Elective-VI",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
 		{
 			"courseName": "Internship",
 			"theoryCredits": 0,
 			"practicalCredits": 2
-		}
-	],
-	[{
-			"courseName": "Project (Industrial/In-house)",
-			"theoryCredits": 0,
-			"practicalCredits": 12
 		},
 		{
 			"courseName": "Mini Project",
 			"theoryCredits": 0,
-			"practicalCredits": 4
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Major Project (Industrial/In-house)",
+			"theoryCredits": 0,
+			"practicalCredits": 12
 		}
 	]
-
 ]

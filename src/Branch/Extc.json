@@ -1,6 +1,6 @@
 [
-
-	[{
+	[
+		{
 			"courseName": "Physics",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -31,7 +31,8 @@
 			"practicalCredits": 2
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics-II",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -57,7 +58,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics-III",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -83,7 +85,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics-IV",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -114,7 +117,8 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Electromagnetic Engineering",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -150,7 +154,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Linear Integrated Circuits",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -159,7 +164,8 @@
 			"courseName": "Digital Communication",
 			"theoryCredits": 3,
 			"practicalCredits": 1
-		}, {
+		},
+		{
 			"courseName": "Digital Signal Processing",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -180,45 +186,53 @@
 			"practicalCredits": 2
 		}
 	],
-	[{
-			"courseName": "Microwave and Satellite Communication",
-			"theoryCredits": 4,
-			"practicalCredits": 1
-		},
+	[
 		{
-			"courseName": "Data Communication and Networking",
+			"courseName": "Microwave Engineering",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Industrial Organization",
+			"courseName": "Electronic Instrumentation",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-III",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-IV",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-V",
 			"theoryCredits": 2,
 			"practicalCredits": 0
 		},
 		{
-			"courseName": "Elective (1)",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Elective (2)",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
-			"courseName": "Elective (3)",
-			"theoryCredits": 3,
-			"practicalCredits": 1
-		},
-		{
 			"courseName": "Industrial Training Seminar",
 			"theoryCredits": 0,
-			"practicalCredits": 2
+			"practicalCredits": 1
 		}
 	],
-	[{
-		"courseName": "Project",
-		"theoryCredits": 0,
-		"practicalCredits": 20
-	}]
+	[
+		{
+			"courseName": "Project",
+			"theoryCredits": 0,
+			"practicalCredits": 12
+		},
+		{
+			"courseName": "Elective-VI",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-VII",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	]
 ]

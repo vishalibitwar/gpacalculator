@@ -1,5 +1,6 @@
 [
-	[{
+	[
+		{
 			"courseName": "Mathematics -I",
 			"theoryCredits": 4,
 			"practicalCredits": 0
@@ -25,7 +26,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Physics",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -56,7 +58,8 @@
 			"practicalCredits": 2
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Fabric Forming Technology-I",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -87,7 +90,8 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Mathematics-III",
 			"theoryCredits": 3,
 			"practicalCredits": 0
@@ -118,7 +122,8 @@
 			"practicalCredits": 1
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Spun Yarn Technology-II",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -144,7 +149,8 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Spun Yarn Technology-III",
 			"theoryCredits": 3,
 			"practicalCredits": 1
@@ -175,15 +181,11 @@
 			"practicalCredits": 0
 		}
 	],
-	[{
+	[
+		{
 			"courseName": "Technical Textiles-I",
 			"theoryCredits": 4,
 			"practicalCredits": 1
-		},
-		{
-			"courseName": "Production Management",
-			"theoryCredits": 4,
-			"practicalCredits": 0
 		},
 		{
 			"courseName": "Knitting & Nonwovens",
@@ -191,38 +193,44 @@
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Mini Project(TU == Theory )",
+			"courseName": "Production Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mini Project",
 			"theoryCredits": 2,
 			"practicalCredits": 2
 		},
 		{
-			"courseName": "Elective - IV",
+			"courseName": "Elective-III",
 			"theoryCredits": 4,
 			"practicalCredits": 0
 		}
 	],
-	[{
-			"courseName": "Project - A (TU == Theory)",
-			"theoryCredits": 2,
-			"practicalCredits": 6
+	[
+		{
+			"courseName": "Project Work ",
+			"theoryCredits": 0,
+			"practicalCredits": 8
 		},
 		{
-			"courseName": "Seminar (TU == Theory) ",
-			"theoryCredits": 2,
-			"practicalCredits": 0
-		},
-		{
-			"courseName": "In-Plant Training",
+			"courseName": "Seminar",
 			"theoryCredits": 0,
 			"practicalCredits": 2
 		},
 		{
-			"courseName": "Elective - V (1) (PCW) ",
+			"courseName": "Winter/Summer Internship",
+			"theoryCredits": 0,
+			"practicalCredits": 2
+		},
+		{
+			"courseName": "Elective",
 			"theoryCredits": 3,
 			"practicalCredits": 1
 		},
 		{
-			"courseName": "Elective - V (2)",
+			"courseName": "Elective",
 			"theoryCredits": 4,
 			"practicalCredits": 0
 		}
